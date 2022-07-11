@@ -1,0 +1,63 @@
+body {
+  background-color: #ece6e6;
+}
+
+nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: #e44c15;
+}
+
+.login--div, .sign--div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+}
+
+.login-details {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 40px;
+  width: 900px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+}
+
+.main-div {
+  width: 900px;
+  background-color: #8c9090;
+  margin: 0 auto;
+  margin-left: 1px;
+  margin-top: 0px;
+}
+
+.name-div {
+  height: 30px;
+  border-radius: 12px;
+  border-color: antiquewhite;
+  border-width: 0px;
+}
+
+.pass-div {
+  margin-left: 9px;
+  height: 30px;
+  border-radius: 12px;
+  border-color: antiquewhite;
+  border-width: 0px;
+}
+
+.sign--div {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+/*# sourceMappingURL=login.css.map */

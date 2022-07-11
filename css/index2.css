@@ -1,0 +1,66 @@
+body {
+  background-color: antiquewhite;
+}
+
+nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: #e44207;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+}
+
+.body--wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: white;
+  position: relative;
+}
+
+.div--img {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+
+.black--img {
+  width: 100%;
+}
+
+.person--img {
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  border-radius: 50%;
+  top: 30%;
+  left: 30%;
+}
+
+.about--me--div {
+  -webkit-box-flex: 1.5;
+      -ms-flex: 1.5;
+          flex: 1.5;
+}
+
+span {
+  color: orangered;
+}
+
+.about--me--details {
+  margin-left: 150px;
+}
+
+.objective {
+  margin-left: 80px;
+  margin-top: 50px;
+}
+
+ul {
+  font-size: large;
+}
+/*# sourceMappingURL=index2.css.map */
